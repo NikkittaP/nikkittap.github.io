@@ -10,7 +10,7 @@ The main English-language website for Nikita Petrov Apps, published from this re
 - `/timeline-exporter/` — the website within the public application repository
 - `/cinelace-app/` — the separate public Cinelace website, independent of the private application repository
 
-The existing `app-ads.txt` is retained in the site root. Canonical URLs still use `nikkittap.github.io`; update these and social metadata when the custom domain is connected.
+The existing `app-ads.txt` is retained in the site root. Canonical URLs and social metadata use `nikitapetrovapps.com`.
 
 ## Preview all the websites together
 
